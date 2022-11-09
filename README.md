@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Eugen
-- 🌱 I’m currently learning Angular
+- 🌱 I’m Java and Angular developer
